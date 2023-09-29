@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    width: 600px;
+    height: 100px;
+    margin: auto;
+    background-color: gray;
+}
+
+h1 {
+    margin: auto;
+}
